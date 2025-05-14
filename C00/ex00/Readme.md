@@ -2,7 +2,7 @@
 ![alt text](ex00.png)
 
 **Allowed Functions:**
-- **Write** from `<unistd.h>`
+- `Write()` from `<unistd.h>`
 **Task**
 1. Write a function that displays the character passed as a parameter.
 2. It will be prototyped as follows :
